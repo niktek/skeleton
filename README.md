@@ -37,4 +37,3 @@ We have provided a detailed [contribution guide](https://www.skeleton.dev/docs/c
 
 Skeleton was created by [Chris Simmons](https://github.com/endigo9740) (@endigo9740) and is currently maintained by [Skeleton Labs](https://www.skeletonlabs.co/) and the open source community.
 
-test
