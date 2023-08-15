@@ -1,4 +1,5 @@
-import adapter from '@sveltejs/adapter-vercel';
+import adapter from '@sveltejs/adapter-cloudflare';
+
 import { vitePreprocess } from '@sveltejs/kit/vite';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
