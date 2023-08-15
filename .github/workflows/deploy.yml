@@ -42,6 +42,7 @@ jobs:
         run: pnpm install
       - name: Building skeleton.dev
         run: pnpm build
+        working-directory: sites/skeleton.dev
 
       # Run a build step here if your project requires
 
