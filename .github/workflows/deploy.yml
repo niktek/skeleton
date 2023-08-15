@@ -40,7 +40,7 @@ jobs:
 
       - name: Install dependencies
         run: pnpm install
-      - name: Building skeleton.dev
+      - name: Building skeleton.dev on GH
         run: pnpm build
         working-directory: sites/skeleton.dev
 
