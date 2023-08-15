@@ -52,7 +52,7 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 6494d99cdfe0fa6aaf7b57b19c24f499
           projectName: niktek-io
-          directory: sites/skeleton.dev/.svelte-kit/cloudflare
+          directory: .svelte-kit/cloudflare
           # Optional: Enable this if you want to have GitHub Deployments triggered
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
           # Optional: Switch what branch you are publishing to.
